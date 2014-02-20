@@ -1,3 +1,4 @@
+*This repository is a mirror of the [component](http://component.io) module [code42day/plumper](http://github.com/code42day/plumper). It has been modified to work with NPM+Browserify. You can install it using the command `npm install npmcomponent/code42day-plumper`. Please do not open issues or send pull requests against this repo. If you have issues with this repo, report it to [npmcomponent](https://github.com/airportyh/npmcomponent).*
 [![Build Status](https://secure.travis-ci.org/code42day/plumper.png)](http://travis-ci.org/code42day/plumper)
 [![NPM version](https://badge.fury.io/js/plumper.png)](http://badge.fury.io/js/plumper)
 
